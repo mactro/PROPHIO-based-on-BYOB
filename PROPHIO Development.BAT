@@ -1,0 +1,1 @@
+start Prophio.exe PROPHIO.image %1 dev
